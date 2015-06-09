@@ -1,8 +1,22 @@
-function rearrange_fields(input){
+function assign_value(input){
 
 }
 
-function choose_field(input){
+
+//keyboard as controls (arrows + enter)	
+function rearrange_fields(input){ //player drags/moves fields
+
+}
+
+function choose_field(input){ //player selects one field
+
+}
+
+function feedback_pos(input){
+
+}
+
+function feedback_neg(input){
 
 }
 
@@ -14,7 +28,7 @@ function add_miss(){
 
 }
 
-function get_server_matrix(){
+function add_hit(){
 
 }
 
@@ -22,9 +36,6 @@ function decide_start(){
 
 }
 
-function send_server_matrix(){
-
-}
 
 $(document).ready(function() {
 	css_center($("#code_notice_top"));
@@ -39,3 +50,11 @@ function clickdiv(object) {
 	});
 }
 */
+
+function get_server_matrix(){
+
+}
+
+function send_server_matrix(){
+
+}
