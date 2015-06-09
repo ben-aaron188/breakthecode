@@ -1,4 +1,3 @@
-
 function css_center(object, relative_object) {
   if (typeof relative_object === "undefined" || relative_object === null) {
     relative_object = object;

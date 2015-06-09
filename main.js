@@ -1,46 +1,45 @@
-function assign_value(input){
+function assign_value(input) {
 
 }
 
-
-//keyboard as controls (arrows + enter)	
-function rearrange_fields(input){ //player drags/moves fields
-
-}
-
-function choose_field(input){ //player selects one field
+//keyboard as controls (arrows + enter)
+function rearrange_fields(input) { //player drags/moves fields
 
 }
 
-function feedback_pos(input){
+function choose_field(input) { //player selects one field
 
 }
 
-function feedback_neg(input){
+function feedback_pos(input) {
 
 }
 
-function set_timer(dur){
+function feedback_neg(input) {
 
 }
 
-function add_miss(){
+function set_timer(dur) {
 
 }
 
-function add_hit(){
+function add_miss() {
 
 }
 
-function decide_start(){
+function add_hit() {
+
+}
+
+function decide_start() {
 
 }
 
 
 $(document).ready(function() {
-	css_center($("#code_notice_top"));
-	css_center($("#code_notice_bottom"));
-	//clickdiv($("#grid_top1"));
+  css_center($("#code_notice_top"));
+  css_center($("#code_notice_bottom"));
+  //clickdiv($("#grid_top1"));
 });
 
 /*
@@ -51,10 +50,10 @@ function clickdiv(object) {
 }
 */
 
-function get_server_matrix(){
+function get_server_matrix() {
 
 }
 
-function send_server_matrix(){
+function send_server_matrix() {
 
 }

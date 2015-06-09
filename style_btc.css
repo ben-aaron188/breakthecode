@@ -1,91 +1,91 @@
 * {
-background-color: #E0E0E0;
+  background-color: #E0E0E0;
 }
 .page_wrapper {
-width: 100%;
-margin: 0px auto;
-border: 1px solid Blue;
+  width: 100%;
+  margin: 0px auto;
+  border: 1px solid Blue;
 }
 .window {
-height: 100vh;
-position: relative;
-border: 1px solid black;
+  height: 100vh;
+  position: relative;
+  border: 1px solid black;
 }
 #division_div {
-display: block;
-position: absolute;
-width: 95%;
-height: 0.5%;
-top: 49.75%;
-left: 2.5%;
-background-color: black;
+  display: block;
+  position: absolute;
+  width: 95%;
+  height: 0.5%;
+  top: 49.75%;
+  left: 2.5%;
+  background-color: black;
 }
 .grid {
-background-color: grey;
-position: absolute;
-display: block;
-border: 0.5vh solid black;
-width: 25.875%;
-height: 11.5%;
-font-family: Courier;
-font-size: 4em;
-color: white;
-text-align: center;
+  background-color: grey;
+  position: absolute;
+  display: block;
+  border: 0.5vh solid black;
+  width: 25.875%;
+  height: 11.5%;
+  font-family: Courier;
+  font-size: 4em;
+  color: white;
+  text-align: center;
 }
 #opponent_info {
-border: 0.5vh solid black;
-width: 95%;
-height:10%;
-left: 2%;
-top: 1%;
-position: absolute;
-display: block;
-background-color: grey;
+  border: 0.5vh solid black;
+  width: 95%;
+  height: 10%;
+  left: 2%;
+  top: 1%;
+  position: absolute;
+  display: block;
+  background-color: grey;
 }
 #player_info {
-border: 0.5vh solid black;
-width: 95%;
-height: 10%;
-top: 88%;
-left: 2%;
-position: absolute;
-display: block;
-background-color: grey;
+  border: 0.5vh solid black;
+  width: 95%;
+  height: 10%;
+  top: 88%;
+  left: 2%;
+  position: absolute;
+  display: block;
+  background-color: grey;
 }
 #username_info {
-position: absolute;
-left: 5%;
-font-family: Courier;
-font-size: 0.5em;
-color: white;
-background-color: transparent;
+  position: absolute;
+  left: 5%;
+  font-family: Courier;
+  font-size: 0.5em;
+  color: white;
+  background-color: transparent;
 }
 #code_notice_top {
-text-align: center;
-width: 40%;
-position: absolute;
-left: 50%;
-font-family: Courier;
-font-size: 0.75em;
-color: white;
-background-color: transparent;
-border: 0.25vh solid white;
-background-color: black;
-letter-spacing: 7px;
+  text-align: center;
+  width: 40%;
+  position: absolute;
+  left: 50%;
+  font-family: Courier;
+  font-size: 0.75em;
+  color: white;
+  background-color: transparent;
+  border: 0.25vh solid white;
+  background-color: black;
+  letter-spacing: 7px;
 }
 #code_notice_bottom {
-position: absolute;
-left: 50%;
-font-family: Courier;
-font-size: 0.75em;
-color: white;
-background-color: transparent;
+  position: absolute;
+  left: 50%;
+  font-family: Courier;
+  font-size: 0.75em;
+  color: white;
+  background-color: transparent;
 }
 #failed_att {
-position: absolute;
-left: 70%;
-font-family: Courier;
-font-size: 0.5em;
-color: white;
-background-color: transparent;
+  position: absolute;
+  left: 70%;
+  font-family: Courier;
+  font-size: 0.5em;
+  color: white;
+  background-color: transparent;
 }
